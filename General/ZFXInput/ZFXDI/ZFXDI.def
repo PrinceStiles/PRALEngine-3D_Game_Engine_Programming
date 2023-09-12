@@ -1,0 +1,6 @@
+;File: ZFXDI.def
+;The following functions are exported from this DLL
+LIBRARY   "ZFXDI.dll"
+EXPORTS
+   CreateInputDevice
+   ReleaseInputDevice

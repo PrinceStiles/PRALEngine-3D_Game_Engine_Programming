@@ -1,0 +1,6 @@
+;File: ZFXWS.def
+;The following functions are exported from this DLL
+LIBRARY   "ZFXWS.dll"
+EXPORTS
+   CreateNetworkDevice
+   ReleaseNetworkDevice
