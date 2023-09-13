@@ -1,5 +1,5 @@
 "# PRALEngine-3D_Game_Engine_Programming" 
-# Portable Par
+
 ## Game Engine
 
 Reversed Golf Game:
@@ -28,7 +28,7 @@ The game engine supports the following features:
 
 **Game**
 
-The game is called "Golf, but you play as the hole". The player controls the hole and must try to hit the golf ball into the hole. The game features the following:
+The game is called "Reversed Golf, but you play as the hole". The player controls the hole and must try to hit the golf ball into the hole. The game features the following:
 
 * Uneven terrain
 * Physics simulation
