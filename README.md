@@ -4,7 +4,7 @@
 
 Reversed Golf Game:
 
-Sure, here is the documentation of the game engine and the game created with the game engine:
+Here is the documentation of the game engine and the game created with the game engine:
 
 **Game Engine**
 
@@ -53,6 +53,6 @@ The game will start and you can begin playing.
 * The game engine is still under development and there may be some bugs.
 * The game is not very polished, but it is a working example of a game engine that can be used to create simple 2D and 3D games.
 
-I hope this documentation is helpful. Please let me know if you have any questions.
+I hope this documentation is helpful.
 
 ![image](https://github.com/PrinceStiles/PRALEngine-3D_Game_Engine_Programming/blob/main/portable-par/showoff/gam2.png)
