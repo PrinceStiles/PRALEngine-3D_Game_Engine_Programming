@@ -1,8 +1,13 @@
-"# PRALEngine-3D_Game_Engine_Programming" 
+*"PRALEngine-3D_Game_Engine_Programming"*
 
 ## Game Engine
 
-Reversed Golf Game:
+**Contributors**
+
+* Otumfuo Prince [@PrinceStiles](https://github.com/PrinceStiles) - 10908238
+* Alice Yakubu [@AliceYakubu](https://github.com/Yakubu505) - 10904177
+
+**Reversed Golf Game:**
 
 Here is the documentation of the game engine and the game created with the game engine:
 
